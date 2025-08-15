@@ -1,0 +1,15 @@
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+D:\Route\backend\C#\Assignment 2 in [ Advanced C# ]\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
